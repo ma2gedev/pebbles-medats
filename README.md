@@ -1,6 +1,6 @@
 # Pebbles::Medats
 
-TODO: Write a gem description
+Print outputs is easy to notice, using medats method.
 
 ## Installation
 
@@ -18,7 +18,14 @@ Or install it yourself as:
 
 ## Usage
 
-TODO: Write usage instructions here
+    require 'pebbles/medats'
+    medats 'output' # print like the following
+    
+    ####################
+    ####################
+    output
+    ####################
+    ####################
 
 ## Contributing
 

@@ -8,9 +8,9 @@ Gem::Specification.new do |spec|
   spec.version       = Pebbles::Medats::VERSION
   spec.authors       = ["ma2gedev"]
   spec.email         = ["takayuki.1229@gmail.com"]
-  spec.description   = %q{TODO: Write a gem description}
-  spec.summary       = %q{TODO: Write a gem summary}
-  spec.homepage      = ""
+  spec.description   = %q{Easy to notice output log.}
+  spec.summary       = %q{Use medats method instead of puts.}
+  spec.homepage      = "https://github.com/ma2gedev/pebbles-medats"
   spec.license       = "MIT"
 
   spec.files         = `git ls-files`.split($/)
