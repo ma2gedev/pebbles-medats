@@ -2,6 +2,7 @@ require "pebbles/medats/version"
 
 module Pebbles
   module Medats
+  private
     def medats(*args)
       puts '####################'
       puts '####################'
